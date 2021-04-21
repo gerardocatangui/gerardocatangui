@@ -1,4 +1,4 @@
-## Hey Viewer!
+## Hey There! 👋
 
 I am Gerard, a Community Strategy Associate at Eskwelabs!
 
