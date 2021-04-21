@@ -5,9 +5,9 @@ I am Gerard, a Community Strategy Associate at Eskwelabs! Eversince I was little
 This made me belive that there are still a lot to solve, create, and lean. I am total beginner in the Deep Technology, but I learn fast! 
 
 **Interested in:**
-✊ Social Impact
-💻 Machine Learning Applications
-🤖 Computer Vision
+✊ Social Impact <br>
+💻 Machine Learning Applications <br>
+🤖 Computer Vision <br>
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/gerardocatangui/)
