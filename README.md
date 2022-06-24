@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-I am Gerard, a Junior Data Analyst at Eskwelabs! Eversince I was little, I wanted to explore realities, solve mysteries, and discover more, but then I thought everything in the world has possibily been inveted or created. What can I possibily do? Fast forward 15+ years, I discovered this space and along with the multitude of the world's problems.
+I am Gerard, a Data Analyst! Eversince I was little, I wanted to explore realities, solve mysteries, and discover more, but then I thought everything in the world has possibily been inveted or created. What can I possibily do? Fast forward 15+ years, I discovered this space and along with the multitude of the world's problems.
 
 This made me belive that there are still a lot to solve, create, and learn. I am total beginner in the Deep Technology, but I learn fast! 
 
