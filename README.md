@@ -1,8 +1,6 @@
 ## Hey There! 👋
 
-I am Gerard, a Data Analyst! Eversince I was little, I wanted to explore realities, solve mysteries, and discover more, but then I thought everything in the world has possibily been inveted or created. What can I possibily do? Fast forward 15+ years, I discovered this space and along with the multitude of the world's problems.
-
-This made me belive that there are still a lot to solve, create, and learn. I am total beginner in the Deep Technology, but I learn fast! 
+I am Gerard, a Data Scientist! I am a multi-disciplinary Data Scientist-Analyst who is proficient in modeling and analyzing data in various disciplines in Education, Energy, Engineering, Business, and Social Impact. I work with teams and organizations to create holistic and sustainable business growth and innovation by combining his experience in Business Strategy, Digital Transformation, Product Development, and Customer Experience (CX) powered by Data Science and Analytics. I am also an advocate of Social Innovation taking an interest in the intersection of technology and social impact to create a sustainable community.
 
 Help me and join me in learning! Would love to know more about this wonderful space.
 
